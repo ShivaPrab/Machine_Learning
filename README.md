@@ -12,7 +12,16 @@ and the methodology & algorithms become increasingly complex.
 # Titanic 
 
 In a first attempt to familiarize myself with Machine Learning Algorithms, Microsoft's Visual Studio Code provides a beginner / user friendly tutorial on how to deploy 
-Keras, Tensorflow, and Scikit-Learn. These modules work together to 
+Keras, Tensorflow, and Scikit-Learn. These modules work together to attempt to predict if a given passenger was to survive the shipwreck. 
+
+# Binary Credit Classification 
+
+Assume that a bank has a test set 200 (i know, major assumption) applicants, and their likelyhood of defauling (0,1). We want to build a binary classification model 
+to predict which applicants will default on their credit, and which applicants will continue to make their payments on time. While the bank may be interested in soley issuing
+lines of credit to those that are defauling, the bank may well be equally profitable (and in the bank's interest) to also issue lines of credit to those individuals that will 
+not default. 
+
+This classificaiton was oringally performed on Excel, but since redone and moved to R. 
 
 # Ames Iowa Dataset 
 
